@@ -1,0 +1,23 @@
+{
+	"name": "Calendar",
+	"description": "Calendar",
+	"version": "1.0.0",
+	"icon": "calendar",
+	"url": "http://127.0.0.1:7000",
+	"author": "Louis Bertson",
+	"email": "louisbertson@gmail.com",
+	"color": "#1873D3",
+	"roles": [],
+	"width": 1024,
+	"height": 768,
+	"resize": true,
+	"mobilemenu": true,
+	"allownotifications": true,
+	"allowreadmeta": true,
+	"allowreadprofile": 1,
+	"allowreadusers": 1,
+	"allowreadapps": 1,
+	"serververify": true,
+	"responsive": true,
+	"origin": []
+}
